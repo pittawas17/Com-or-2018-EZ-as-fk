@@ -1,0 +1,14 @@
+C:\Users\C_aar\Desktop\2222\2222\obj\Debug\2222.csprojResolveAssemblyReference.cache
+C:\Users\C_aar\Desktop\2222\2222\obj\Debug\2222.csproj.CoreCompileInputs.cache
+C:\Users\C_aar\Desktop\2222\2222\bin\Debug\2222.exe.config
+C:\Users\C_aar\Desktop\2222\2222\bin\Debug\2222.exe
+C:\Users\C_aar\Desktop\2222\2222\bin\Debug\2222.pdb
+C:\Users\C_aar\Desktop\2222\2222\obj\Debug\2222.exe
+C:\Users\C_aar\Desktop\2222\2222\obj\Debug\2222.pdb
+C:\Users\Jark\Desktop\HammingCode-master\hammingcode\2222\2222\bin\Debug\2222.exe.config
+C:\Users\Jark\Desktop\HammingCode-master\hammingcode\2222\2222\bin\Debug\2222.exe
+C:\Users\Jark\Desktop\HammingCode-master\hammingcode\2222\2222\bin\Debug\2222.pdb
+C:\Users\Jark\Desktop\HammingCode-master\hammingcode\2222\2222\obj\Debug\2222.csprojResolveAssemblyReference.cache
+C:\Users\Jark\Desktop\HammingCode-master\hammingcode\2222\2222\obj\Debug\2222.csproj.CoreCompileInputs.cache
+C:\Users\Jark\Desktop\HammingCode-master\hammingcode\2222\2222\obj\Debug\2222.exe
+C:\Users\Jark\Desktop\HammingCode-master\hammingcode\2222\2222\obj\Debug\2222.pdb
